@@ -1,0 +1,6 @@
+(venv) (base) lera@Valerias-MacBook-Air ht_06 % pylint app/compare_avgs.py
+************* Module ht_06.app.compare_avgs
+app/compare_avgs.py:11:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+
+------------------------------------------------------------------
+Your code has been rated at 9.29/10 (previous run: 5.71/10, +3.57)
